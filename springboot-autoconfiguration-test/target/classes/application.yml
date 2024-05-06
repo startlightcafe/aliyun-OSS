@@ -1,0 +1,5 @@
+#自定义的阿里云OSS配置信息
+aliyun:
+  oss:
+    endpoint: https://oss-cn-beijing.aliyuncs.com
+    bucketName: cloud-tlias
